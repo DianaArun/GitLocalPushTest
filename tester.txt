@@ -1,0 +1,1 @@
+Creating multi-line text involves using line breaks, typically achieved with Shift+Return (Mac) or Alt+Enter (Windows) in messaging apps and spreadsheets. For web design, you can constrain text to a specific number of lines using CSS properties like display: -webkit-box, -webkit-line-clamp, and overflow: hidden
